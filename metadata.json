@@ -1,0 +1,6 @@
+{
+  "name": "CraftMod",
+  "description": "Aplikasi upload, download, ulasan, serta manajemen mod dan addon Minecraft.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
